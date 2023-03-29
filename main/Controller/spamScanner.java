@@ -1,24 +1,12 @@
 public class spamScanner {
-    private String api_key;
-    private String database_url;
+    private String userInputString;
+    private int userInputInt;
 
     public spamScanner(String userInputString, int userInputInt) {
         this.userInputString = userInputString;
         this.userInputInt = userInputInt;
     }
 
-    private String userInputString;
-    private int userInputInt;
-
-
-
-    public String getApi_key() {
-        return api_key;
-    }
-
-    public String getDatabase_url() {
-        return database_url;
-    }
 
     public int getUserInputInt() {
         return userInputInt;
