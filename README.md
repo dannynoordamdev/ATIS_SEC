@@ -2,4 +2,19 @@
 Java Application build during university project. 
 ---
 
-Are you tired of receiving spam emails and calls? Do you wish there was an easy and efficient way to check if a phone number or email address is legitimate or not? Look no further! With my program, you can easily input suspicious phone numbers or email addresses and receive instant feedback on whether it's spam or not. But that's not all - behind the scenes, the app is utilizing an API key to check an external database and return a positive or negative result. And for those who need a little extra help, there's a comprehensive list of frequently asked questions and a user-friendly guide. Plus, as an added bonus, users can even export their findings to a convenient PDF. Say goodbye to spam once and for all with my innovative and easy-to-use program.
+Welcome to our program that helps users quickly and efficiently detect spam phone numbers and email addresses. Our program is designed to be user-friendly and comprehensive, allowing users to easily enter suspicious contact information and receive instant feedback on whether it is legitimate or not.
+
+How it Works:
+
+Behind the scenes, our app utilizes an API key to check an external database for information on the input. The database provides a positive or negative result, which is then relayed to the user. The program also includes a helpful list of frequently asked questions and a user-friendly guide to ensure ease of use.
+
+In addition to the core functionality, our program includes some additional features that may be of interest to users. These include:
+
+  Export to PDF: Users can export their findings to a convenient PDF for further analysis and record-keeping.
+
+  Question and Answer List: Our program includes a comprehensive list of frequently asked questions to help users quickly find the information they need.
+
+  User Guide: We've included a detailed user guide to help users navigate the program and take advantage of all its features.
+
+
+We believe our program offers an efficient and effective solution for detecting spam phone numbers and email addresses. We're excited to share it with users and hope it helps make their lives a little easier.
